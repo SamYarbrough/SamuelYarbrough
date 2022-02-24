@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on a few math based, usually fractal related projects.
+
 🌱 I’m currently learning/researching about MCMC and its applications.
 
 Pronouns: you don't need to know
